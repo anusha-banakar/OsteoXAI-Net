@@ -52,7 +52,7 @@ The implementation also supports CSV manifests with image paths and class labels
 Clone the repository:
 
 ```bash
-git clone https://github.com/anusha-banakar/OsteoXAI-Net.git
+git clone https://github.com/anusha-banakar/OsteoXAI-Net
 cd OsteoXAI-Net
 ```
 
