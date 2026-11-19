@@ -11,6 +11,4 @@
 9. Add baselines, ablations, robustness, and clinical baseline using scripts named in README.md.
 10. Run `python -m pytest -q tests` after changing any code.
 
-Optional: configure a smaller exploratory run using `--config configs/smoke.json` (not paper-equivalent). For GPUs set CUDA-enabled PyTorch installation per pytorch.org. Model weights may download from torchvision on first use; pre-download for offline execution. To disable pretrained downloads use `"pretrained": false` in JSON but report this departure from the manuscript.
-
 Output: `results/fixed/best.pt`, preprocessing statistics, split manifest, validation-selected threshold, CSV predictions, training curve history, metrics and 600dpi ROC/PR graphics.
