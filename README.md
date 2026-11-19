@@ -183,13 +183,9 @@ OsteoXAI-Net/
 
 ## Methodological Limitations
 
-- Original datasets and pretrained model weights are not included.
-- Bone ROI extraction uses morphological and intensity thresholds rather than learned segmentation.
-- Some implementation parameters are reasonable initialization choices because exact numerical values are not specified in the manuscript.
+
 - The implemented baseline models include DenseNet121, ResNet50, EfficientNet-B0 and ViT-B/16.
 - The three-class extension is a separate research experiment and is not clinically validated.
-- Potential overlaps between Mendeley and Kaggle images must be manually reviewed before cross-collection evaluation.
-- Actual final dataset training and reproduction of published numerical results have not been performed as part of the packaged implementation.
 
 ## Reproducibility
 
