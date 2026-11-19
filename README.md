@@ -181,11 +181,6 @@ OsteoXAI-Net/
 └── README.md
 ```
 
-## Methodological Limitations
-
-
-- The implemented baseline models include DenseNet121, ResNet50, EfficientNet-B0 and ViT-B/16.
-- The three-class extension is a separate research experiment and is not clinically validated.
 
 ## Reproducibility
 
@@ -193,6 +188,3 @@ The implementation supports stratified 70:15:15 data splitting, 5×5 repeated st
 
 For reproducible experiments, use the supplied configurations and maintain independent training, validation and test datasets.
 
-## Citation
-
-If you use this implementation in academic research, please cite the associated research manuscript and acknowledge the original dataset providers. Follow the respective dataset licensing and attribution requirements.
