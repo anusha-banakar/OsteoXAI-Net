@@ -1,4 +1,3 @@
-"""Validation-only Optuna search; each trial retrains on precisely the same split."""
 import argparse,sys,json
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
