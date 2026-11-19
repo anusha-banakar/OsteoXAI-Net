@@ -1,4 +1,3 @@
-"""Complete train/validation/evaluation with optional Optuna and repeated stratified CV."""
 import os, json, random, time, math, copy
 from pathlib import Path
 import numpy as np,pandas as pd,torch
