@@ -5,7 +5,6 @@
 
 OsteoXAI-Net is an explainable deep learning framework for osteoporosis risk prediction from knee radiographs. It integrates bone-aware preprocessing, multi-scale wavelet decomposition, DenseNet121 feature extraction, spectral Transformers, and cross-attention fusion. Monte Carlo Dropout estimates predictive uncertainty, while Grad-CAM++ and spatial attention provide interpretable explanations.
 
-**Note:** This is a research implementation for QUS-referenced osteoporosis risk assessment, not a clinical diagnostic tool.
 
 ## Key Features
 
