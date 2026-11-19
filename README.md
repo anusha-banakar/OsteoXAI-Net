@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/1464039097.svg)](https://doi.org/10.5281/zenodo.24367461)
-[![GitHub Release](https://img.shields.io/github/v/release/anusha-banakar/OsteoXAI-Net.svg)](https://github.com/anusha-banakar/OsteoXAI-Net/releases)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-OsteoXAI--Net-black?logo=github)](https://github.com/anusha-banakar/OsteoXAI-Net)
 
 # OsteoXAI-Net: Explainable Multi-Scale Spectral-Spatial Deep Learning for Osteoporosis Risk Prediction
 
