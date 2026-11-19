@@ -1,4 +1,4 @@
-"""MC dropout, Grad-CAM++ explanation, attention consistency and trust decisions."""
+
 import numpy as np
 import torch
 from torch.nn import functional as F
