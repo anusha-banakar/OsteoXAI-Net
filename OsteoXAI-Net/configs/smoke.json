@@ -1,0 +1,1 @@
+{"image_size":64,"pretrained":false,"d":64,"layers":1,"heads":4,"queries":4,"cross_heads":4,"batch_size":2,"epochs":1,"warmup":1,"learning_rate":0.0001,"patience":1,"mc_passes":2,"workers":0,"amp":false,"ablation":"full"}
