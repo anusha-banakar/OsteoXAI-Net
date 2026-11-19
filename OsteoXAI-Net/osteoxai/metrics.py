@@ -1,4 +1,3 @@
-"""Metrics, bootstrap CIs, selective risk, DCA and statistical tests."""
 import numpy as np
 from sklearn.metrics import (accuracy_score,precision_score,recall_score,f1_score,matthews_corrcoef,roc_auc_score,average_precision_score,confusion_matrix,brier_score_loss,roc_curve)
 from scipy.stats import beta, binomtest
