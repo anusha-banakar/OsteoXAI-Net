@@ -1,4 +1,3 @@
-"""Validation-only trust calibration saved into a new checkpoint; never use test data."""
 import argparse,sys,json,copy
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
