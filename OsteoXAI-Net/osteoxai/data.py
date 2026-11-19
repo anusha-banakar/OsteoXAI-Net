@@ -1,4 +1,3 @@
-"""Leakage-aware radiograph data, bone enhancement, wavelets and duplicate screening."""
 from __future__ import annotations
 import os, json, hashlib, random
 from pathlib import Path
