@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1464039097.svg)](https://doi.org/10.5281/zenodo.24367461)
+[![GitHub Release](https://img.shields.io/github/v/release/anusha-banakar/OsteoXAI-Net.svg)](https://github.com/anusha-banakar/OsteoXAI-Net/releases)
+
 # OsteoXAI-Net: Explainable Multi-Scale Spectral-Spatial Deep Learning for Osteoporosis Risk Prediction
 
 OsteoXAI-Net is an explainable deep learning framework for osteoporosis risk prediction from knee radiographs. It integrates bone-aware preprocessing, multi-scale wavelet decomposition, DenseNet121 feature extraction, spectral Transformers, and cross-attention fusion. Monte Carlo Dropout estimates predictive uncertainty, while Grad-CAM++ and spatial attention provide interpretable explanations.
